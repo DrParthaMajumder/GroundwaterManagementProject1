@@ -1,0 +1,13 @@
+/* data table 1 */
+    1        /* OBJ=1 linear objective */
+    1        /* WT=1, weight in the composite objective = 1 */
+-1e20  1e20  /* lower and upper bounds on the linear objective */
+
+/* data table 2 */
+1      1 
+2      1
+
+1     -1
+2     -1
+EOT
+
